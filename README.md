@@ -1,4 +1,4 @@
-### 嗨！你好，我是一名来自中国的菜鸡程序员 👋
+### 嗨！你好，我是xxr，一名来自中国的菜鸡程序员 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxrBear&hide=contribs,prs&show_icons=true&hide_border=True" />
