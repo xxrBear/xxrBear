@@ -33,4 +33,6 @@
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vim.svg" />
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/powershell.svg" />
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gnubash.svg" />
+    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg" />
+    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gnometerminal.svg" />
  </div>
