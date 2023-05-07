@@ -1,4 +1,4 @@
-<h2 align="center">嗨！我是xxrBear, 欢迎来到我的GitHub首页 👋</h2>
+<h2 align="center">嗨！欢迎来到我的GitHub首页 👋</h2>
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxrBear&hide=contribs,prs&show_icons=true&hide_border=True" />
