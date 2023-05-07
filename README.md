@@ -8,7 +8,7 @@
 </a>
 
 
-<h2 align="center" >Tools</h2>
+<h2 align="center" >Skills & Tools</h2>
 <div align="center">
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/ubuntu.svg" />
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/macos.svg" />
