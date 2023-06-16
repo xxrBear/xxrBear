@@ -8,7 +8,7 @@
 </a>
 
 
-<h2 align="center" >Skills & Tools</h2>
+<h2 align="center">Skills & Tools</h2>
 <div align="center">
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/ubuntu.svg" />
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/macos.svg" />
@@ -21,11 +21,9 @@
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redis.svg" />
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" />
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" />
-    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlechrome.svg" />
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/django.svg" />
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg" />
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/celery.svg" />
-    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postman.svg" />
  </div>
  <div align="center">
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pycharm.svg" />
@@ -35,4 +33,6 @@
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gnubash.svg" />
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg" />
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gnometerminal.svg" />
+    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postman.svg" />
+    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlechrome.svg" />
  </div>
