@@ -1,13 +1,5 @@
 <h2 align="center">嗨！欢迎来到我的GitHub首页 👋</h2>
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxrBear&hide=contribs,prs&show_icons=true&hide_border=True" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxrBear&layout=compact&hide=javascript,html,css,scss,php&hide_border=True&card_width=200" />
-</a>
-
-
 <h1 align="center"><i>Skills & Tools</i></h1>
 <div align="center">
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/ubuntu.svg" />
