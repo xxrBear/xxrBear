@@ -3,7 +3,7 @@
 文档
 <ul>
     <li>
-        <a href="xdrr.me">xdrr.me</a>
+        <a href="https://xdrr.me" target="_blank">xdrr.me</a>
     </li>
 </ul>
     
