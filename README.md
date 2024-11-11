@@ -1,4 +1,4 @@
-<h2 align="center">嗨！欢迎来到我的GitHub首页 👋</h2>
+<h1 align="center">嗨！欢迎来到我的 GitHub 👋</h1>
 
 文档
 <ul>
