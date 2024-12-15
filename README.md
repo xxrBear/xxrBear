@@ -1,4 +1,7 @@
-<h1 align="center">嗨！欢迎来到我的 GitHub 👋</h1>
+<div align="center">
+    
+<img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=30&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=435&lines=%E5%97%A8%EF%BC%81%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+</div>
 
 文档
 <ul>
