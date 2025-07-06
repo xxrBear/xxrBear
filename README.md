@@ -12,6 +12,7 @@
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/c.svg" />
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg"/>
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg"/>
+  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg"/>
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rust.svg"/>
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg" />
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg" />
@@ -33,6 +34,7 @@
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/powershell.svg" />
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gnubash.svg" />
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg" />
+  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kubernetes.svg" />
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gnometerminal.svg" />
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postman.svg" />
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlechrome.svg" />
