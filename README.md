@@ -12,21 +12,22 @@
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg" />
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg" />
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redis.svg" />
-
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg" />
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/celery.svg" />
+  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg" />
+  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kubernetes.svg" />
+  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rabbitmq.svg" />
+  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/elasticsearch.svg" />
+
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" />
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/fastapi.svg" />
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/django.svg" />
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/spring.svg"/>
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/springboot.svg"/>
 
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/elasticsearch.svg" />
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudiocode.svg" />
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vim.svg" />
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg" />
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kubernetes.svg" />
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vite.svg" />
+  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/celery.svg" />
 </div>
 
 <div align="center">
