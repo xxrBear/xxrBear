@@ -5,41 +5,41 @@
 <h1 align="center"><i>Skills & Tools</i></h1>
 
 <div align="center">
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/ubuntu.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/macos.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/windows11.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/ubuntu.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/macos.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/windows11.svg" />
  
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redis.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kubernetes.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rabbitmq.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/elasticsearch.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redis.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kubernetes.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rabbitmq.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/elasticsearch.svg" />
 
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/fastapi.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/django.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/spring.svg"/>
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/springboot.svg"/>
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/fastapi.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/django.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/spring.svg"/>
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/springboot.svg"/>
 
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudiocode.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vim.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vite.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/celery.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudiocode.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vim.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vite.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/celery.svg" />
 </div>
 
 <div align="center">
 
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/c.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg"/>
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg"/>
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg"/>
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rust.svg"/>
-  <img height="30" width="30" src="https://raw.githubusercontent.com/xxrBear/image/master/blog/icons8-java咖啡杯徽标-500.svg"/>
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/c.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg"/>
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg"/>
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg"/>
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rust.svg"/>
+  <img height="25" width="25" src="https://raw.githubusercontent.com/xxrBear/image/master/blog/icons8-java咖啡杯徽标-500.svg"/>
 
 </div>
