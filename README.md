@@ -6,7 +6,7 @@
 
 <div align="center">
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/ubuntu.svg" />
-  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/macos.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/apple.svg" />
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/windows11.svg" />
  
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg" />
