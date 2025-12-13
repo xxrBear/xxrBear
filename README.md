@@ -17,6 +17,7 @@
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kubernetes.svg" />
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rabbitmq.svg" />
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/elasticsearch.svg" />
+  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nginx.svg" />
 
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" />
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/fastapi.svg" />
