@@ -36,9 +36,6 @@
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" />
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/c.svg" />
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg"/>
-  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg"/>
-  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" />
-  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" />
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg"/>
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rust.svg"/>
 </div>
