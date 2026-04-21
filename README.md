@@ -4,7 +4,7 @@
 
 <h1 align="center"><i>Skills & Tools</i></h1>
 
-<div align="center">
+<!-- <div align="center">
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/ubuntu.svg" />
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/apple.svg" />
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/windows11.svg" />
@@ -38,4 +38,4 @@
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg"/>
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg"/>
   <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rust.svg"/>
-</div>
+</div> -->
